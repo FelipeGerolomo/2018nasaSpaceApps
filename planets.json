@@ -1,0 +1,322 @@
+[
+    {
+        "ID": 1,
+        "Name": "Tau Ceti e*",
+        "Star": "Tau Ceti",
+        "Radius": 1.6,
+        "Flux": 1.51,
+        "K": 282,
+        "Period": 168.1,
+        "Distance": 12
+    },
+    {
+        "ID": 2,
+        "Name": "Ross 128 b",
+        "Star": "Ross 128",
+        "Radius": 1.1,
+        "Flux": 1.38,
+        "K": 280,
+        "Period": 9.8,
+        "Distance": 11.03
+    },
+    {
+        "ID": 3,
+        "Name": "KOI-4427 b*",
+        "Star": "KOI-4427",
+        "Radius": 1.8,
+        "Flux": 0.24,
+        "K": 179,
+        "Period": 147.7,
+        "Distance": 782
+    },
+    {
+        "ID": 4,
+        "Name": "Kepler-62e",
+        "Star": "Kepler-62",
+        "Radius": 1.6,
+        "Flux": 1.1,
+        "K": 270,
+        "Period": 122.4,
+        "Distance": 1200
+    },
+    {
+        "ID": 5,
+        "Name": "Kepler-61b",
+        "Star": "Kepler-61",
+        "Radius": 2.2,
+        "Flux": 1.27,
+        "K": 258,
+        "Period": 59.9,
+        "Distance": 1063
+    },
+    {
+        "ID": 6,
+        "Name": "Kepler-443b",
+        "Star": "Kepler-443",
+        "Radius": 2.3,
+        "Flux": 0.89,
+        "K": 247,
+        "Period": 177.7,
+        "Distance": 2540
+    },
+    {
+        "ID": 7,
+        "Name": "Kepler-440b",
+        "Star": "Kepler-440",
+        "Radius": 1.9,
+        "Flux": 1.43,
+        "K": 273,
+        "Period": 101.1,
+        "Distance": 851
+    },
+    {
+        "ID": 8,
+        "Name": "Kepler-438b",
+        "Star": "Kepler-438",
+        "Radius": 1.1,
+        "Flux": 1.38,
+        "K": 276,
+        "Period": 35.2,
+        "Distance": 473
+    },
+    {
+        "ID": 9,
+        "Name": "Kepler-298d",
+        "Star": "Kepler-298",
+        "Radius": 2.5,
+        "Flux": 1.29,
+        "K": 271,
+        "Period": 77.5,
+        "Distance": 1545
+    },
+    {
+        "ID": 10,
+        "Name": "Kepler-296f",
+        "Star": "Kepler-296",
+        "Radius": 1.8,
+        "Flux": 0.34,
+        "K": 198,
+        "Period": 63.3,
+        "Distance": 737
+    },
+    {
+        "ID": 11,
+        "Name": "Kepler-296e",
+        "Star": "Kepler-296",
+        "Radius": 1.5,
+        "Flux": 1.22,
+        "K": 337,
+        "Period": 34.1,
+        "Distance": 737
+    },
+    {
+        "ID": 12,
+        "Name": "Kepler-283c",
+        "Star": "Kepler-283",
+        "Radius": 1.8,
+        "Flux": 0.9,
+        "K": 248,
+        "Period": 92.7,
+        "Distance": 1741
+    },
+    {
+        "ID": 13,
+        "Name": "Kepler-22b",
+        "Star": "Kepler-22",
+        "Radius": 2.4,
+        "Flux": 1.11,
+        "K": 262,
+        "Period": 289.9,
+        "Distance": 619
+    },
+    {
+        "ID": 14,
+        "Name": "Kepler-174d",
+        "Star": "Kepler-174",
+        "Radius": 2.2,
+        "Flux": 0.43,
+        "K": 206,
+        "Period": 247.4,
+        "Distance": 1174
+    },
+    {
+        "ID": 15,
+        "Name": "Kepler-1544b",
+        "Star": "Kepler-1544",
+        "Radius": 1.8,
+        "Flux": 0.9,
+        "K": 248,
+        "Period": 168.8,
+        "Distance": 1138
+    },
+    {
+        "ID": 16,
+        "Name": "Kepler-1090b",
+        "Star": "Kepler-1090",
+        "Radius": 2.3,
+        "Flux": 1.2,
+        "K": 267,
+        "Period": 198.7,
+        "Distance": 2289
+    },
+    {
+        "ID": 17,
+        "Name": "K2-9b",
+        "Star": "K2-9",
+        "Radius": 2.2,
+        "Flux": 1.38,
+        "K": 284,
+        "Period": 18.4,
+        "Distance": 359
+    },
+    {
+        "ID": 18,
+        "Name": "",
+        "Star": "",
+        "Radius": "",
+        "Flux": "",
+        "K": "",
+        "Period": "",
+        "Distance": ""
+    },
+    {
+        "ID": 19,
+        "Name": "K2-3d",
+        "Star": "K2-3",
+        "Radius": 1.5,
+        "Flux": 1.46,
+        "K": 300,
+        "Period": 44.6,
+        "Distance": 137
+    },
+    {
+        "ID": 20,
+        "Name": "K2-18b",
+        "Star": "K2-18",
+        "Radius": 2.2,
+        "Flux": 0.94,
+        "K": 272,
+        "Period": 32.9,
+        "Distance": 111
+    },
+    {
+        "ID": 21,
+        "Name": "HD 40307 g",
+        "Star": "HD 40307",
+        "Radius": 2.3,
+        "Flux": 0.68,
+        "K": 227,
+        "Period": 197.8,
+        "Distance": 42
+    },
+    {
+        "ID": 22,
+        "Name": "Gliese 832 c",
+        "Star": "Gliese 832",
+        "Radius": 2.2,
+        "Flux": 1,
+        "K": 253,
+        "Period": 35.7,
+        "Distance": 16
+    },
+    {
+        "ID": 23,
+        "Name": "Gliese 682 c",
+        "Star": "Gliese 682",
+        "Radius": 2.5,
+        "Flux": 0.37,
+        "K": 198,
+        "Period": 57.3,
+        "Distance": 17
+    },
+    {
+        "ID": 24,
+        "Name": "Gliese 422 b*",
+        "Star": "Gliese 422",
+        "Radius": 2.6,
+        "Flux": 0.68,
+        "K": 231,
+        "Period": 26.2,
+        "Distance": 41
+    },
+    {
+        "ID": 25,
+        "Name": "Gliese 3293 c",
+        "Star": "Gliese 3293",
+        "Radius": 2.5,
+        "Flux": 0.6,
+        "K": 223,
+        "Period": 48.1,
+        "Distance": 59
+    },
+    {
+        "ID": 26,
+        "Name": "Gliese 180 c",
+        "Star": "Gliese 180",
+        "Radius": 2.3,
+        "Flux": 0.79,
+        "K": 239,
+        "Period": 24.3,
+        "Distance": 38
+    },
+    {
+        "ID": 27,
+        "Name": "Gliese 180 b",
+        "Star": "Gliese 180",
+        "Radius": 2.4,
+        "Flux": 1.23,
+        "K": 268,
+        "Period": 17.4,
+        "Distance": 38
+    },
+    {
+        "ID": 28,
+        "Name": "Gliese 163 c",
+        "Star": "Gliese 163",
+        "Radius": 2.3,
+        "Flux": 0.66,
+        "K": 230,
+        "Period": 25.6,
+        "Distance": 49
+    },
+    {
+        "ID": 29,
+        "Name": "Kepler-442b",
+        "Star": "Kepler-442",
+        "Radius": 1.34,
+        "Flux": 0.7,
+        "K": 233,
+        "Period": 112,
+        "Distance": 1291
+    },
+    {
+        "ID": 30,
+        "Name": "Kepler-1229b",
+        "Star": "Kepler-1229",
+        "Radius": 1.4,
+        "Flux": 0.49,
+        "K": 213,
+        "Period": 86.8,
+        "Distance": 769
+    },
+    {
+        "ID": 31,
+        "Name": "Kepler-186f",
+        "Star": "Kepler-186",
+        "Radius": 1.17,
+        "Flux": 0.29,
+        "K": 188,
+        "Period": 129,
+        "Distance": 561
+    },
+    {
+        "ID": 32,
+        "Name": "Wolf 1061c",
+        "Star": "Wolf 1061",
+        "Radius": 1.1,
+        "Flux": 0.6,
+        "K": 223,
+        "Period": 17,
+        "Distance": 13
+    }
+]
